@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **React native**
 
-- 👨‍💻 All of my projects are available at [https://www.danieliosifmorohoschi.me](https://www.danieliosifmorohoschi.me)
+- 👨‍💻 All of my projects are available at [https://www.danieliosifmorohoschi.me](https://danieliosifmorohoschi.me/#/portofolio)
 
 - 📫 How to reach me **morohoschidanieliosif@gmail.com**
 
-- 📄 Know about my experiences [https://danieliosifmorohoschi.me/#/experience](https://www.danieliosifmorohoschi.me)
+- 📄 Know about my experiences [https://danieliosifmorohoschi.me](https://danieliosifmorohoschi.me/#/experience)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
