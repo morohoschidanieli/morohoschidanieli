@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **morohoschidanieliosif@gmail.com**
 
-- 📄 Know about my experiences [https://www.danieliosifmorohoschi.me](https://www.danieliosifmorohoschi.me)
+- 📄 Know about my experiences [https://danieliosifmorohoschi.me/#/experience](https://www.danieliosifmorohoschi.me)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
