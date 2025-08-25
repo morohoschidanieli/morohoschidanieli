@@ -9,15 +9,17 @@
 
 - 👨‍💻 All of my projects are available at [https://www.danieliosifmorohoschi.me](https://danieliosifmorohoschi.me/#/portofolio)
 
-- 📫 How to reach me **morohoschidanieliosif@gmail.com**
+- 📫 How to reach me **mdi.contact.dev@gmail.com**
 
 - 📄 Know about my experiences [https://danieliosifmorohoschi.me](https://danieliosifmorohoschi.me/#/experience)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/morohoschidi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="morohoschidi" height="30" width="40" /></a>
-<a href="https://fb.com/moro.danniel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="moro.danniel" height="30" width="40" /></a>
 </p>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/moro.daniell"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="moro.daniell" /></a></p><br><br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
