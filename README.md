@@ -7,8 +7,6 @@
 
 - 🔭 I currently work at **BoatyardX**
 
-- 🌱 I’m currently learning **React native**
-
 - 👨‍💻 All of my projects are available at [https://www.danieliosifmorohoschi.me](https://danieliosifmorohoschi.me/#/portofolio)
 
 - 📫 How to reach me **morohoschidanieliosif@gmail.com**
